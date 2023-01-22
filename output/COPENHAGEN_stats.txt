@@ -1,0 +1,4 @@
+nodes 692
+T 28
+static_deg 230
+dynamic_deg 20
